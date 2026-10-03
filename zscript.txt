@@ -1,0 +1,13 @@
+version "4.14"
+
+#include "zscript/blockmap.zs"
+#include "zscript/world.zs"
+#include "zscript/disguise.zs"
+#include "zscript/demo.zs"
+#include "zscript/stats.zs"
+#include "zscript/fx.zs"
+#include "zscript/mobs.zs"
+#include "zscript/weapons.zs"
+#include "zscript/items.zs"
+#include "zscript/hud.zs"
+#include "zscript/deco.zs"

@@ -1,0 +1,4 @@
+texture MCLAVA01 range MCLAVA16 tics 3
+texture MCWATR01 range MCWATR16 tics 3
+texture MCSEAL01 range MCSEAL04 tics 8
+switch MCLEVR0 on sound "mc/lever" pic MCLEVR1 tics 0

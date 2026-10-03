@@ -1,0 +1,113 @@
+// First-person weapons (rendered at twice Doom's resolution).
+Sprite "SWRDA0", 149, 355
+{
+	XScale 2
+	YScale 2
+	Offset -491, -41
+	Patch "hud/weap/SWRDA0.png", 0, 0
+}
+Sprite "SWRDB0", 182, 387
+{
+	XScale 2
+	YScale 2
+	Offset -458, -9
+	Patch "hud/weap/SWRDB0.png", 0, 0
+}
+Sprite "SWRDC0", 366, 240
+{
+	XScale 2
+	YScale 2
+	Offset -274, -156
+	Patch "hud/weap/SWRDC0.png", 0, 0
+}
+Sprite "SWRDD0", 543, 139
+{
+	XScale 2
+	YScale 2
+	Offset -90, -257
+	Patch "hud/weap/SWRDD0.png", 0, 0
+}
+Sprite "BOWWA0", 277, 254
+{
+	XScale 2
+	YScale 2
+	Offset -363, -142
+	Patch "hud/weap/BOWWA0.png", 0, 0
+}
+Sprite "BOWWB0", 294, 258
+{
+	XScale 2
+	YScale 2
+	Offset -346, -138
+	Patch "hud/weap/BOWWB0.png", 0, 0
+}
+Sprite "BOWWC0", 300, 253
+{
+	XScale 2
+	YScale 2
+	Offset -340, -143
+	Patch "hud/weap/BOWWC0.png", 0, 0
+}
+Sprite "BOWWD0", 295, 260
+{
+	XScale 2
+	YScale 2
+	Offset -345, -136
+	Patch "hud/weap/BOWWD0.png", 0, 0
+}
+Sprite "XBOWA0", 297, 247
+{
+	XScale 2
+	YScale 2
+	Offset -343, -149
+	Patch "hud/weap/XBOWA0.png", 0, 0
+}
+Sprite "XBOWB0", 306, 266
+{
+	XScale 2
+	YScale 2
+	Offset -334, -130
+	Patch "hud/weap/XBOWB0.png", 0, 0
+}
+Sprite "XBOWC0", 296, 233
+{
+	XScale 2
+	YScale 2
+	Offset -344, -163
+	Patch "hud/weap/XBOWC0.png", 0, 0
+}
+Sprite "XBOWD0", 296, 240
+{
+	XScale 2
+	YScale 2
+	Offset -344, -156
+	Patch "hud/weap/XBOWD0.png", 0, 0
+}
+Sprite "TNTHA0", 237, 209
+{
+	XScale 2
+	YScale 2
+	Offset -403, -187
+	Patch "hud/weap/TNTHA0.png", 0, 0
+}
+Sprite "TNTHB0", 203, 249
+{
+	XScale 2
+	YScale 2
+	Offset -437, -147
+	Patch "hud/weap/TNTHB0.png", 0, 0
+}
+Sprite "TNTHC0", 253, 203
+{
+	XScale 2
+	YScale 2
+	Offset -387, -193
+	Patch "hud/weap/TNTHC0.png", 0, 0
+}
+Sprite "TNTHD0", 131, 92
+{
+	XScale 2
+	YScale 2
+	Offset -509, -304
+	Patch "hud/weap/TNTHD0.png", 0, 0
+}

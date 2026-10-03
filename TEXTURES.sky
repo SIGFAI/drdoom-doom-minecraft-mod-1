@@ -1,0 +1,7 @@
+// The Minecraft sky (swapped in when the block wave starts).
+Texture "MCSKY1", 2048, 1059
+{
+	XScale 2
+	YScale 2
+	Patch "graphics/mcsky.png", 0, 0
+}

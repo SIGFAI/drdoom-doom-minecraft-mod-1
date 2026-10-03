@@ -1,0 +1,2 @@
+// Set by demo.cfg: the stage of the stream demo (start outdoors, timed waves).
+server noarchive bool mc_demo = false;

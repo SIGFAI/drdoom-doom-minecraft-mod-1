@@ -1,0 +1,769 @@
+Texture "MCSTONE", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcstone.png", 0, 0
+}
+
+Texture "MCCOBBL", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mccobbl.png", 0, 0
+}
+
+Texture "MCMOSSY", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcmossy.png", 0, 0
+}
+
+Texture "MCSTBRK", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcstbrk.png", 0, 0
+}
+
+Texture "MCSTBRM", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcstbrm.png", 0, 0
+}
+
+Texture "MCSTBRC", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcstbrc.png", 0, 0
+}
+
+Texture "MCCHISL", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcchisl.png", 0, 0
+}
+
+Texture "MCBRICK", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcbrick.png", 0, 0
+}
+
+Texture "MCPLANK", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcplank.png", 0, 0
+}
+
+Texture "MCSPRUC", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcspruc.png", 0, 0
+}
+
+Texture "MCDKOAK", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcdkoak.png", 0, 0
+}
+
+Texture "MCBIRCH", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcbirch.png", 0, 0
+}
+
+Texture "MCLOG", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mclog.png", 0, 0
+}
+
+Texture "MCLOGTOP", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mclogtop.png", 0, 0
+}
+
+Texture "MCSPLOG", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcsplog.png", 0, 0
+}
+
+Texture "MCDIRT", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcdirt.png", 0, 0
+}
+
+Texture "MCGRAVL", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcgravl.png", 0, 0
+}
+
+Texture "MCSAND", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcsand.png", 0, 0
+}
+
+Texture "MCOBSID", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcobsid.png", 0, 0
+}
+
+Texture "MCIRON", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mciron.png", 0, 0
+}
+
+Texture "MCGOLD", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcgold.png", 0, 0
+}
+
+Texture "MCDIAM", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcdiam.png", 0, 0
+}
+
+Texture "MCBOOK", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcbook.png", 0, 0
+}
+
+Texture "MCCRAFT", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mccraft.png", 0, 0
+}
+
+Texture "MCFURN", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcfurn.png", 0, 0
+}
+
+Texture "MCFURNA", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcfurna.png", 0, 0
+}
+
+Texture "MCTNT", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mctnt.png", 0, 0
+}
+
+Texture "MCDEEP", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcdeep.png", 0, 0
+}
+
+Texture "MCDEEPB", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcdeepb.png", 0, 0
+}
+
+Texture "MCDEEPT", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcdeept.png", 0, 0
+}
+
+Texture "MCBEDRK", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcbedrk.png", 0, 0
+}
+
+Texture "MCANDES", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcandes.png", 0, 0
+}
+
+Texture "MCDIORI", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcdiori.png", 0, 0
+}
+
+Texture "MCGRANI", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcgrani.png", 0, 0
+}
+
+Texture "MCGLOWS", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcglows.png", 0, 0
+}
+
+Texture "MCNRACK", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcnrack.png", 0, 0
+}
+
+Texture "MCNBRIK", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcnbrik.png", 0, 0
+}
+
+Texture "MCQUARZ", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcquarz.png", 0, 0
+}
+
+Texture "MCPRISM", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcprism.png", 0, 0
+}
+
+Texture "MCPRISD", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcprisd.png", 0, 0
+}
+
+Texture "MCREDST", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcredst.png", 0, 0
+}
+
+Texture "MCLAMP", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mclamp.png", 0, 0
+}
+
+Texture "MCLAMP0", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mclamp0.png", 0, 0
+}
+
+Texture "MCLAPIS", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mclapis.png", 0, 0
+}
+
+Texture "MCEMER", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcemer.png", 0, 0
+}
+
+Texture "MCCOAL", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mccoal.png", 0, 0
+}
+
+Texture "MCSANDS", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcsands.png", 0, 0
+}
+
+Texture "MCSNDTP", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcsndtp.png", 0, 0
+}
+
+Texture "MCBONE", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcbone.png", 0, 0
+}
+
+Texture "MCORECO", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcoreco.png", 0, 0
+}
+
+Texture "MCOREIR", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcoreir.png", 0, 0
+}
+
+Texture "MCOREGO", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcorego.png", 0, 0
+}
+
+Texture "MCOREDI", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcoredi.png", 0, 0
+}
+
+Texture "MCORERE", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcorere.png", 0, 0
+}
+
+Texture "MCORELA", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcorela.png", 0, 0
+}
+
+Texture "MCOREEM", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcoreem.png", 0, 0
+}
+
+Texture "MCGRASS", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcgrass.png", 0, 0
+}
+
+Texture "MCGRSD1", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcgrsd1.png", 0, 0
+}
+
+Texture "MCLEAF", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcleaf.png", 0, 0
+}
+
+Texture "MCSTORE", 512, 512
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcstore.png", 0, 0
+}
+
+Texture "MCSTOR2", 512, 512
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcstor2.png", 0, 0
+}
+
+Texture "MCCOBMX", 512, 512
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mccobmx.png", 0, 0
+}
+
+Texture "MCSTBMX", 512, 512
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcstbmx.png", 0, 0
+}
+
+Texture "MCDEEPO", 512, 512
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcdeepo.png", 0, 0
+}
+
+Texture "MCPLKMX", 512, 512
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcplkmx.png", 0, 0
+}
+
+Texture "MCCAVE", 512, 512
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mccave.png", 0, 0
+}
+
+Texture "MCLIBRY", 512, 512
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mclibry.png", 0, 0
+}
+
+Texture "MCSMITH", 512, 512
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcsmith.png", 0, 0
+}
+
+Texture "MCGRSID", 128, 1024
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcgrsid.png", 0, 0
+}
+
+Texture "MCPILLR", 128, 512
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcpillr.png", 0, 0
+}
+
+Texture "MCDOOR", 256, 512
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcdoor.png", 0, 0
+}
+
+Texture "MCIDOOR", 256, 512
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcidoor.png", 0, 0
+}
+
+Texture "MCLEVR0", 512, 512
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mclevr0.png", 0, 0
+}
+
+Texture "MCLEVR1", 512, 512
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mclevr1.png", 0, 0
+}
+
+Texture "MCLAVA01", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mclava01.png", 0, 0
+}
+
+Texture "MCLAVA02", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mclava02.png", 0, 0
+}
+
+Texture "MCLAVA03", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mclava03.png", 0, 0
+}
+
+Texture "MCLAVA04", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mclava04.png", 0, 0
+}
+
+Texture "MCLAVA05", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mclava05.png", 0, 0
+}
+
+Texture "MCLAVA06", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mclava06.png", 0, 0
+}
+
+Texture "MCLAVA07", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mclava07.png", 0, 0
+}
+
+Texture "MCLAVA08", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mclava08.png", 0, 0
+}
+
+Texture "MCLAVA09", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mclava09.png", 0, 0
+}
+
+Texture "MCLAVA10", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mclava10.png", 0, 0
+}
+
+Texture "MCLAVA11", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mclava11.png", 0, 0
+}
+
+Texture "MCLAVA12", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mclava12.png", 0, 0
+}
+
+Texture "MCLAVA13", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mclava13.png", 0, 0
+}
+
+Texture "MCLAVA14", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mclava14.png", 0, 0
+}
+
+Texture "MCLAVA15", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mclava15.png", 0, 0
+}
+
+Texture "MCLAVA16", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mclava16.png", 0, 0
+}
+
+Texture "MCWATR01", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcwatr01.png", 0, 0
+}
+
+Texture "MCWATR02", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcwatr02.png", 0, 0
+}
+
+Texture "MCWATR03", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcwatr03.png", 0, 0
+}
+
+Texture "MCWATR04", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcwatr04.png", 0, 0
+}
+
+Texture "MCWATR05", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcwatr05.png", 0, 0
+}
+
+Texture "MCWATR06", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcwatr06.png", 0, 0
+}
+
+Texture "MCWATR07", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcwatr07.png", 0, 0
+}
+
+Texture "MCWATR08", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcwatr08.png", 0, 0
+}
+
+Texture "MCWATR09", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcwatr09.png", 0, 0
+}
+
+Texture "MCWATR10", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcwatr10.png", 0, 0
+}
+
+Texture "MCWATR11", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcwatr11.png", 0, 0
+}
+
+Texture "MCWATR12", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcwatr12.png", 0, 0
+}
+
+Texture "MCWATR13", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcwatr13.png", 0, 0
+}
+
+Texture "MCWATR14", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcwatr14.png", 0, 0
+}
+
+Texture "MCWATR15", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcwatr15.png", 0, 0
+}
+
+Texture "MCWATR16", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcwatr16.png", 0, 0
+}
+
+Texture "MCSEAL01", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcseal01.png", 0, 0
+}
+
+Texture "MCSEAL02", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcseal02.png", 0, 0
+}
+
+Texture "MCSEAL03", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcseal03.png", 0, 0
+}
+
+Texture "MCSEAL04", 128, 128
+{
+	XScale 4
+	YScale 4
+	Patch "mcblk/mcseal04.png", 0, 0
+}

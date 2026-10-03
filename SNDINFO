@@ -1,0 +1,41 @@
+// Blocks
+mc/place1	sounds/place1.ogg
+mc/place2	sounds/place2.ogg
+mc/place3	sounds/place3.ogg
+$random mc/place { mc/place1 mc/place2 mc/place3 }
+mc/lever	sounds/lever.ogg
+mc/dig/stone	sounds/dig_stone.ogg
+mc/dig/dirt	sounds/dig_dirt.ogg
+
+// Mobs
+mc/zombie/say	sounds/zombie_say.ogg
+mc/zombie/hurt	sounds/zombie_hurt.ogg
+mc/zombie/death	sounds/zombie_death.ogg
+mc/skeleton/say	sounds/skel_say.ogg
+mc/skeleton/hurt	sounds/skel_hurt.ogg
+mc/skeleton/death	sounds/skel_death.ogg
+mc/spider/say	sounds/spider_say.ogg
+mc/spider/hurt	sounds/spider_hurt.ogg
+mc/spider/death	sounds/spider_death.ogg
+mc/spider/attack	sounds/spider_attack.ogg
+mc/creeper/fuse	sounds/creeper_fuse.ogg
+mc/creeper/death	sounds/creeper_death.ogg
+mc/ghast/hurt	sounds/ghast_hurt.ogg
+mc/ghast/shot	sounds/ghast_shot.ogg
+mc/ghast/death	sounds/ghast_death.ogg
+mc/punch	sounds/punch.ogg
+
+// Combat and rewards
+mc/explode	sounds/explode.ogg
+mc/tnt/ignite	sounds/tnt_ignite.ogg
+mc/bow/shoot	sounds/bow_shoot.ogg
+mc/bow/draw	sounds/bowdraw.ogg
+mc/arrow/hit	sounds/arrow_hit.ogg
+mc/xp	sounds/xp.ogg
+mc/levelup	sounds/levelup.ogg
+mc/eat	sounds/eat.ogg
+mc/swing	sounds/swing.ogg
+mc/xbow/load	sounds/xbowload.ogg
+
+$limit mc/place 4
+$limit mc/xp 3

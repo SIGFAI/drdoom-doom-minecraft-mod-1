@@ -1,0 +1,45 @@
+// Warm light from torches, lamps and glowstone; flashes for explosions and fire charges.
+flickerlight2 MCTORCH
+{
+	color 1.0 0.75 0.4
+	size 72
+	secondarySize 84
+	interval 0.15
+}
+pointlight MCLAMPLIGHT
+{
+	color 1.0 0.6 0.35
+	size 120
+}
+pointlight MCGLOWLIGHT
+{
+	color 1.0 0.85 0.5
+	size 120
+}
+pointlight MCFIRECHARGE
+{
+	color 1.0 0.5 0.1
+	size 56
+}
+pointlight MCBOOMLIGHT
+{
+	color 1.0 0.95 0.8
+	size 260
+}
+
+object MCTorch { frame TRCH { light MCTORCH } }
+object MCTorchTallRed { frame TRCH { light MCTORCH } }
+object MCTorchTallGreen { frame TRCH { light MCTORCH } }
+object MCTorchTallBlue { frame TRCH { light MCTORCH } }
+object MCTorchShortRed { frame TRCH { light MCTORCH } }
+object MCTorchShortGreen { frame TRCH { light MCTORCH } }
+object MCTorchShortBlue { frame TRCH { light MCTORCH } }
+object MCTorchCandle { frame TRCH { light MCTORCH } }
+object MCTorchCandelabra { frame TRCH { light MCTORCH } }
+object MCTorchBarrel { frame TRCH { light MCTORCH } }
+object MCLampTech { frame LAMP { light MCLAMPLIGHT } }
+object MCLampTech2 { frame LAMP { light MCLAMPLIGHT } }
+object MCGlowColumn { frame POST { light MCGLOWLIGHT } }
+object MCGlowPillar { frame POST { light MCGLOWLIGHT } }
+object MCFireCharge { frame FIRB { light MCFIRECHARGE } }
+object MCBoomFlash { frame BOOM { light MCBOOMLIGHT } }
