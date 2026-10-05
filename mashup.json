@@ -3,6 +3,12 @@
   "version": "1.0.0",
   "name": "DRDOOM, mod 1: Doom × Minecraft",
   "tagline": "Doom rebuilt as a Minecraft level, from the floor up",
+  "how_to_play": [
+    "Start a new game and watch the level rebuild itself into Minecraft blocks, then fight through it.",
+    "Zombies, Skeletons, Creepers, Spiders and Ghasts replace Doom's monsters; Creepers blow up up close.",
+    "You start with a diamond sword (1) and a bow (2); find the multishot crossbow (3) and throwable TNT (5).",
+    "Apples and golden apples heal you, chestplates are armor, arrows and bolts are ammo."
+  ],
   "kind": "mashup",
   "games": [
     {
