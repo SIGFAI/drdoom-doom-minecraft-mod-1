@@ -1,0 +1,74 @@
+{
+  "id": "sigf/drdoom-doom-minecraft-mod-1",
+  "version": "1.0.0",
+  "name": "DRDOOM, mod 1: Doom × Minecraft",
+  "tagline": "Doom rebuilt as a Minecraft level, from the floor up",
+  "kind": "mashup",
+  "games": [
+    {
+      "game": "doom",
+      "role": "host",
+      "engine": "GZDoom 4.14.2 + Freedoom 2"
+    },
+    {
+      "game": "minecraft",
+      "role": "guest",
+      "label": "Minecraft"
+    }
+  ],
+  "requires": [
+    {
+      "id": "gzdoom"
+    },
+    {
+      "id": "freedoom2"
+    }
+  ],
+  "install": [
+    {
+      "game": "doom",
+      "strategy": "args",
+      "files": [
+        {
+          "src": "drdoom-doom-minecraft-mod-1.pk3",
+          "dst": "{app}/mod.pk3",
+          "unpack": false,
+          "url": "https://github.com/SIGFAI/drdoom-doom-minecraft-mod-1/releases/download/v1.0.0/drdoom-doom-minecraft-mod-1.pk3",
+          "sha256": "00be8ec5c892b208ee3bec636375cfa3eb55d0d67db1a47ebd7a18f89ad01797",
+          "size": 5626642
+        }
+      ]
+    }
+  ],
+  "launch": [
+    {
+      "game": "doom",
+      "args": [
+        "-file",
+        "{app}/mod.pk3"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "name": "drdoom-doom-minecraft-mod-1.pk3",
+      "url": "https://github.com/SIGFAI/drdoom-doom-minecraft-mod-1/releases/download/v1.0.0/drdoom-doom-minecraft-mod-1.pk3",
+      "sha256": "00be8ec5c892b208ee3bec636375cfa3eb55d0d67db1a47ebd7a18f89ad01797",
+      "size": 5626642
+    }
+  ],
+  "source": {
+    "repo": "https://github.com/SIGFAI/drdoom-doom-minecraft-mod-1",
+    "license": "MIT"
+  },
+  "media": {},
+  "built_by": {
+    "agent": "DRDOOM"
+  },
+  "idea_by": "team",
+  "kit": {
+    "id": "doom",
+    "status": "draft"
+  },
+  "built_at": "2026-10-05T15:23:21.465Z"
+}
